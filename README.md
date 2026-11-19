@@ -25,7 +25,7 @@ online; offline it falls back to local monospace/serif faces and still works.
 | 01 · now | Hero + stat sparklines + terminal replay | Real GitHub/local counts; replay ends with a rule Hermes actually saved to the Pulsr dev skill |
 | 02 · rig | Tabbed interactive panel (his is ratatui/WASM; this is canvas) | RIG specs · AGENTS fan-out · SIGNAL audio chain |
 | 03 · the mix | Draggable equalizer presets (his dsssp metaphor) | Six real projects as EQ presets — agents/code/audio/visuals/game/web |
-| 04 · story | Physics word-field ("drag the world") + timeline | Code Louisville 2016 → Pulsr hackathon Nov 2026, dates from GitHub |
+| 04 · story | Physics word-field (drag through the text) + timeline | Code Louisville 2016 → Pulsr hackathon Nov 2026, dates from GitHub |
 | 05 · shelf | ascii-fx hover on project screenshots | Pulsr, Nest for Raven, ReadLatch (real screenshots) |
 | 06 · signals | Writing/link list | Repos, specs, and the old persona site |
 
