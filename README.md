@@ -30,7 +30,7 @@ online; offline it falls back to local monospace/serif faces and still works.
 | 06 · signals | Writing/link list | Repos, specs, and the old persona site |
 
 Palette: **Neon Rain** — the exact scheme from `herdr-nightcity/windows-terminal/neon-rain.json`.
-Avatar: a hand-drawn 24×24 SVG pixel mask — hooded chrome, cracked mirror face, one cyan eye slit — that glitches every few seconds and on hover. It replaced Volt Ronin (the old site's fox) on purpose: an identity that keeps recalibrating.
+No avatar: the hero is text-only over the fluid ink. (Volt Ronin, the old site's fox, and a brief glitch-mask successor were both removed at the owner's request.)
 Type: JetBrains Mono + Space Grotesk + Instrument Serif italic + VT323 (boot).
 
 Accessibility & behavior: keyboard-operable EQ points (arrow keys) and panel
