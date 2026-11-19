@@ -20,6 +20,7 @@ online; offline it falls back to local monospace/serif faces and still works.
 | Section | Technique (after teknium.io) | Personalization |
 |---|---|---|
 | Boot gate | BIOS probe lines + PRESS ANY KEY | Real rig specs, 133 skills, 57 worktrees |
+| Background | WebGL fluid ink (his webgl-fluid), mouse-reactive, dithered | Hand-written stable-fluids sim in the Neon Rain palette |
 | Ticker | Scrolling JP/EN marquee | FL Studio, VoiceMeeter, Neon Rain, the Wired |
 | 01 · now | Hero + stat sparklines + terminal replay | Real GitHub/local counts; replay ends with a rule Hermes actually saved to the Pulsr dev skill |
 | 02 · rig | Tabbed interactive panel (his is ratatui/WASM; this is canvas) | RIG specs · AGENTS fan-out · SIGNAL audio chain |
@@ -29,7 +30,7 @@ online; offline it falls back to local monospace/serif faces and still works.
 | 06 · signals | Writing/link list | Repos, specs, and the old persona site |
 
 Palette: **Neon Rain** — the exact scheme from `herdr-nightcity/windows-terminal/neon-rain.json`.
-Mascot: **Volt Ronin**, the cyber-fox gif from the old `personal-website` repo.
+Avatar: a hand-drawn 24×24 SVG pixel mask — hooded chrome, cracked mirror face, one cyan eye slit — that glitches every few seconds and on hover. It replaced Volt Ronin (the old site's fox) on purpose: an identity that keeps recalibrating.
 Type: JetBrains Mono + Space Grotesk + Instrument Serif italic + VT323 (boot).
 
 Accessibility & behavior: keyboard-operable EQ points (arrow keys) and panel
