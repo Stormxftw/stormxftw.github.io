@@ -4,7 +4,12 @@ A single-file personal website for **Strugglehugs (@Stormxftw)**, built with the
 techniques from [teknium.io](https://teknium.io/) and catered to this rig, these
 projects, and this persona.
 
-## Open it
+**Live: https://stormxftw.github.io/** — served by GitHub Pages from the public
+repo [`Stormxftw/stormxftw.github.io`](https://github.com/Stormxftw/stormxftw.github.io)
+(branch `main`, root). To update: edit `index.html`, commit, push — Pages
+rebuilds in about a minute.
+
+## Open it locally
 
 Double-click `index.html`. Everything is embedded (images included) — no build
 step, no server, no dependencies. Google Fonts load from the network when
@@ -33,16 +38,20 @@ instant replay, no word physics), mobile layout with a vertical signal chain,
 no trackers/cookies. Boot shows once per tab session; the footer **↻ reboot**
 replays it.
 
-## Deploy (GitHub Pages)
+## Private repos
 
-The `personal-website` repo already has a Pages workflow. Either:
+Most project repos (ReadLatch, ForKeeps, frontier-relay, agent-wiki,
+practical-hermes-skills, sinker, squad, Patchwright, personal-website, …) are
+**private**, so the site shows them greyed-out and unlinked — names,
+descriptions and screenshots stay, hrefs are removed. Public repos (Pulsr,
+nest-for-raven, herdr-nightcity, H.Realms, SlopLens, aura-kit) keep their
+links. If you make a repo public later, re-add its `href` in `index.html`
+(shelf cards, `.also` chips, timeline, signals rows).
 
-1. Replace its `index.html` with this file (keep or delete the old assets), or
-2. Make a new repo (e.g. `strugglehugs.github.io` or `site`), commit
-   `index.html`, and enable Pages on the branch root.
-
-`assets/` here holds the optimized source images for future edits — they are
-already base64-embedded in `index.html`, so deploying the single file is enough.
+The old `personal-website` repo is private and stays that way; it holds the
+previous Codex-card site (now `legacy.html` there) plus a copy of this site.
+Its daily `refresh-codex-card` workflow is untouched. GitHub Pages on a private
+repo needs a paid plan — that's why this site lives in its own public repo.
 
 ## Customize
 
@@ -54,6 +63,9 @@ All content lives in `index.html`:
 - `PRESETS` / `BANDS` — equalizer projects and band values
 - `#wordfield` text + `.timeline` — story and log
 - `.cards` / `.also` / `.signals` — shelf and links
+
+`assets/` holds the optimized source images for future edits — they are
+already base64-embedded in `index.html`, so deploying the single file is enough.
 
 ## Honesty notes
 
